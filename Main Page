@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Zoes Portfolio Website</title>
+<link rel="stylesheet" type="text/css" href="Portfolio website CSS.css">
+</head>
+<body>
+<div id="header">
+<h1> Zoe Steinkamp</h1>
+<nav>
+<a href="Zoes Portfolio Website.html"> Main Page </a> | 
+<a href="PortfolioAboutMe.html"> About Me </a> |  
+<a href="PortfolioMyWork.html"> My Work </a> | 
+<a href="PortfolioContact.html"> Contact </a> | 
+</nav>
+<h2 id="Main_Page"> An introduction to who I am </h2>
+<p id="Main_Page"> This is a website created by me to show off my work to future employeers. As I work through school at rocketu and become a juniou developer. </p>
+</body>
+</html>
